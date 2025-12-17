@@ -282,4 +282,4 @@ This project was developed for educational purposes at EPFL.
 ---
 
 **Authors**: Santiago Rivadeneira, Yasmine Hidri, Lev Maznichenko  
-**Contact**: {santiago.rivadeneira, yasmine.hidri, lev.maznichenko}@epfl.ch
+**Contact**: {santiago.rivadeneiraquintero, yasmine.hidri, lev.maznichenko}@epfl.ch
